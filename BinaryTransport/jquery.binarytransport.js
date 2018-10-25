@@ -8,6 +8,8 @@
  *
  */
 
+import jquery from 'jquery'
+const $ = jquery || window.jQuery || window.$
 (function($, undefined) {
     "use strict";
 
